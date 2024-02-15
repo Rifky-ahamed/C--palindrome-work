@@ -1,0 +1,20 @@
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\bin\Debug\palindrome work.exe.config
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\bin\Debug\palindrome work.exe
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\bin\Debug\palindrome work.pdb
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome work.csproj.AssemblyReference.cache
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome_work.Form1.resources
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome_work.Properties.Resources.resources
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome work.csproj.GenerateResource.cache
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome work.csproj.CoreCompileInputs.cache
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome work.exe
+D:\C# COODING\RENTAL CKECKING\palindrome work\palindrome work\obj\Debug\palindrome work.pdb
+D:\C# COODING\PALINDROME WORK\palindrome work\bin\Debug\palindrome work.exe.config
+D:\C# COODING\PALINDROME WORK\palindrome work\bin\Debug\palindrome work.exe
+D:\C# COODING\PALINDROME WORK\palindrome work\bin\Debug\palindrome work.pdb
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome work.csproj.AssemblyReference.cache
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome_work.Form1.resources
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome_work.Properties.Resources.resources
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome work.csproj.GenerateResource.cache
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome work.csproj.CoreCompileInputs.cache
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome work.exe
+D:\C# COODING\PALINDROME WORK\palindrome work\obj\Debug\palindrome work.pdb
